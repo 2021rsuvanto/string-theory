@@ -4,7 +4,8 @@ def shout(string):
     output = string.upper()
     return output
 
-# Print and call function.
+# Call function.
+# Print function.
 a=shout("sleep")
 print(a)
 
